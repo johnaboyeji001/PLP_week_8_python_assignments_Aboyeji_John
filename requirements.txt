@@ -1,0 +1,11 @@
+# Core libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Web app framework
+streamlit
